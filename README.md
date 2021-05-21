@@ -7,6 +7,5 @@
    This is an easy to use program for anyone with command line know how. It is written in node.js, inquirer.js, console.table and mysql.
 # Video 
    Run through   
-   https://drive.google.com/file/d/1JAgeQR6FdX8JHVL4Sh3Hql3UWI27yIQA/view
-   
+   https://drive.google.com/file/d/1qr-SuSwR7Mb5jnz9yl93jY6e9Po1jnY7/view
    
