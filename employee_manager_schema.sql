@@ -47,5 +47,3 @@ VALUES ("Joe", "Thomas", 1, 1), ("Robert", "Rossman", 2, 2), ("Bill", "Davis", 3
 -- INNER JOIN department ON employee.department_id = department.department_id
 -- INNER JOIN roletype ON employee.department_id = roletype.role_id;
 
-INSERT INTO department (dep_name) VALUES ("Factory");
-SELECT * FROM department;
